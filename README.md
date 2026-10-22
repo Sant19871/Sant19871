@@ -26,7 +26,6 @@ Aquí resumo mi trayectoria práctica y laboral en el sector:
     *   Desarrollaba junto a otros compañeros una pagina web para una empresa de inmobiliaria.
 
 *   **Soporte tecnico, practicas** | *Fundación FESD* | 2025 (3 meses)
-    *   [Descripción de lo que aprendiste y aplicaste durante tus prácticas, ej. Colaboración en equipo ágil para el despliegue de una app interna.]
 
 ---
 
