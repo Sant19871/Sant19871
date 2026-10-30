@@ -30,11 +30,6 @@ Aquí resumo mi trayectoria práctica y laboral en el sector:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sant19871&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant19871&layout=compact)
-
----
-
 ### 📫 Contacto Profesional
 
 Si quieres conectar para oportunidades laborales o colaboraciones:
