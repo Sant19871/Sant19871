@@ -1,4 +1,4 @@
-<img src="[https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.biobiochile.cl%2Fwp-content%2Fuploads%2F2016%2F02%2Fbinario_html_m49ead776-730x410.jpg&f=1&nofb=1&ipt=ecb725910f01f162ddeb0c8f3e05250f8efc56c843e987500ae5427623a052b4&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconceptoabc.com%2Fwp-content%2Fuploads%2F2021%2F05%2FCodigo-binario.jpg&f=1&nofb=1&ipt=f57c8ab5eb970c67790b87b33eddada74e6f2ebf6cd7239908a5e0aef0edc8a3&ipo=images)">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconceptoabc.com%2Fwp-content%2Fuploads%2F2021%2F05%2FCodigo-binario.jpg&f=1&nofb=1&ipt=f57c8ab5eb970c67790b87b33eddada74e6f2ebf6cd7239908a5e0aef0edc8a3&ipo=images">
 
 # ¡Hola! 👋 Soy Santiago Noval.
 
