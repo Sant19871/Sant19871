@@ -26,12 +26,12 @@ Aquí resumo mi trayectoria práctica y laboral en el sector:
     *   Desarrollaba junto a otros compañeros una pagina web para una empresa de inmobiliaria.
 
 *   **Soporte tecnico, practicas** | *Fundación FESD* | 2025 (3 meses)
+    *   Resolvia incidencias que surgian en el colegio e instituto junto a un compañero.
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-<!-- Puedes generar tus propias tarjetas de estadísticas en: https://github.com/anuraghazra/github-readme-stats -->
-![Estadísticas de GitHub de Sant19871(https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radium)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sant19871&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant19871&layout=compact)
 
 ---
 
