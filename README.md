@@ -2,7 +2,7 @@
 
 **Desarrollador | [Especialidad: Frontend / Backend / Fullstack] | Apasionado por la tecnología**
 
-Bienvenido/a a mi GitHub. Aquí es donde comparto mi código, mis proyectos y mi evolución como profesional en el mundo del desarrollo. Me enfoco en c>
+Bienvenido/a a mi GitHub. Aquí es donde comparto mi código, mis proyectos y mi evolución como profesional en el mundo del desarrollo.
 
 ---
 
